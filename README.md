@@ -1,5 +1,5 @@
-# Algorithms-Project-Java
-(Back to projects)
+# AI projects
+
 ## Collections of algorithms optimization 
 
 + Optimal path using BFS, DFS 
