@@ -1,5 +1,6 @@
 # AI projects
-
+Proof of concept of the state of the art AI with practical & research examples 
+(with code demos)
 ## Collections of algorithms optimization 
 
 + Optimal path using BFS, DFS 
@@ -21,7 +22,19 @@
 
 
 
-## 
+## AI in Finance 
+
+
+
+## AI in Bioinformatics 
+
+
+
+## AI in game 
+
+
+
+## AI in IoT 
 
 ## ML algorithms 
 ### Image classification 
