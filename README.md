@@ -199,3 +199,5 @@ Proof of concept of the state of the art AI with practical & research examples
 - https://cloud.google.com/products/ai/
 - https://stockfishchess.org/
 - https://link.springer.com/chapter/10.1007%2F978-3-540-72079-9_10
+- https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/
+- https://prodi.gy/
