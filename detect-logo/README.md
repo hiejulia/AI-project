@@ -183,3 +183,7 @@ DenseNet201 (https://keras.io/applications/#densenet)
     - single NVIDIA Titan X GPU.
 
 
+
+
+## resource 
+- https://github.com/AlexeyAB/Yolo_mark

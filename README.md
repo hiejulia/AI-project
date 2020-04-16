@@ -93,6 +93,16 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 ## Deep learning 
+- backpropagation
+- gradient descent
+- “skip connections”
+- batch normalization 
+- RNN : text, speech , time series data
+- XOR
+- multi layer, feed forward NN 
+
+
+
 ### NLP & sentimental analysis with RNTN 
 - Background on natural language processing (NLP) and sentiment analysis
 - Core NLP: https://stanfordnlp.github.io/CoreNLP/
@@ -175,7 +185,16 @@ Proof of concept of the state of the art AI with practical & research examples
     - sentiment analysis 
     - entity analysis 
     - 
+#### Tech stack 
+- Java 
+    - NN : (http://neuroph.sourceforge.net/index.html), Deeplearning4j
+    - NLP : CoreNLP, OpenNLP
+    - ML : JavaML, Weka, SMILE
+    - ComputerVision : JavaCV
+    - Tensorflow
 
+
+- Python 
 
 
 
@@ -201,3 +220,6 @@ Proof of concept of the state of the art AI with practical & research examples
 - https://link.springer.com/chapter/10.1007%2F978-3-540-72079-9_10
 - https://www.technologyreview.com/2017/04/11/5113/the-dark-secret-at-the-heart-of-ai/
 - https://prodi.gy/
+- https://github.com/mnielsen/neural-networks-and-deep-learning
+- https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
+- http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
