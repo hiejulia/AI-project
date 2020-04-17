@@ -148,5 +148,5 @@ class Board {
         return turn == 1?max:min;
     }
 }
-    
+
 
