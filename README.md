@@ -40,6 +40,9 @@ Proof of concept of the state of the art AI with practical & research examples
 - Prolog 
     - `swipl`
     - `brew install swi-prolog`
+    - prolog query 
+    <a href="https://imgur.com/cEGMZb0"><img src="https://i.imgur.com/cEGMZb0.png" title="source: imgur.com" /></a>
+
 
 - The min-max algorithm
 
