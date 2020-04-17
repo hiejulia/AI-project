@@ -36,6 +36,12 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 ## AI in game 
+- rule based system 
+- Prolog 
+    - `swipl`
+    - `brew install swi-prolog`
+
+- The min-max algorithm
 
 
 ## Edge AI 
@@ -89,6 +95,8 @@ Proof of concept of the state of the art AI with practical & research examples
 - matrix factorization
 - https://github.com/benfred/implicit
 - efficient nearest neighbor search: https://github.com/facebookresearch/faiss
+
+## Image drawer program Mona Lisa 
 
 
 
@@ -195,6 +203,7 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 - Python 
+- Prolog
 
 
 
@@ -202,7 +211,6 @@ Proof of concept of the state of the art AI with practical & research examples
 #### Resources / Ref 
 + https://www.cs.waikato.ac.nz/ml/weka/ 
 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html
-- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html 
 - https://cloud.google.com/products/
 - https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
 - http://jevois.org/
