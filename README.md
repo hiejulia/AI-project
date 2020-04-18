@@ -78,6 +78,50 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 ## AI in IoT 
+- Self driving solution 
+- Safe route parameter to trip planners 
+- Apply CNN to parking lot 
+- Apply SVM to safety on trip planning 
+- Teaching MDP to find the safest route 
+
+
+- set up RL-DL-CRLMM model
+    - webcam images in real time 
+    - CRL- CNN 
+        - gap in parking lot 
+        - SVM - optimizer 
+        - MDP 
+        - RL - DL - CRLMM find parking lot - available space 
+        - Circular RL- DL - CRLMM 
+            - CNN 
+            - Markov decision process MDP 
+            - CRLMM - recognize parkigng space in parking lot and send signal to self signal to self driving vehicle 
+                - gaps, space between 2 objects 
+                - context to establish whether this space between objects is positive or negative distance 
+
+
+- IP camera : obtain right real time frames from webcam : lighting const, etc 
+- Dataset : 
+    - training set, test set 
+- model trained : CNN Concept Strategy. py 
+    - Classify parking lot : 
+- Add SVM function to increase safety level 
+    - avoid traffic 
+    -
+
+    <a href="https://imgur.com/LShCcXm"><img src="https://i.imgur.com/LShCcXm.png" title="source: imgur.com" /></a> 
+
+- classify
+
+
+- IP camera 
+    - Webcam can be tested 
+- Computer vision 
+    - simulate frozen frame
+    
+
+
+
 
 ## ML algorithms 
 ### Image classification 
