@@ -107,18 +107,36 @@ Proof of concept of the state of the art AI with practical & research examples
     - Classify parking lot : 
 - Add SVM function to increase safety level 
     - avoid traffic 
-    -
-
+    - read lat/long of datapoint in another table to convet back to GPS format 
+    - sklearn
     <a href="https://imgur.com/LShCcXm"><img src="https://i.imgur.com/LShCcXm.png" title="source: imgur.com" /></a> 
+    - `make_blobs`
 
 - classify
 
 
 - IP camera 
     - Webcam can be tested 
+    - webcam freeze a frame of a parking lot 
+
 - Computer vision 
     - simulate frozen frame
+    <a href="https://imgur.com/afQSh2z"><img src="https://i.imgur.com/afQSh2z.png" title="source: imgur.com" /></a>
+- Run CRLMM 
+    - Find parking space 
+    - CRL-MM-IoT-SVM.py 
+
+- decide how to get to the parking lot 
+    - `crlmm == 1`
+    - find a safe route to SDC -> activate SVM -> `safeSVM()` -> traffic graph 
+    - send info to Google Maps -> script to read dataset that contains GPS coordinate for each datapoint in the SVM 
+<a href="https://imgur.com/BGsMWVj"><img src="https://i.imgur.com/BGsMWVj.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/FwxQRQs"><img src="https://i.imgur.com/FwxQRQs.png" title="source: imgur.com" /></a>
+- Itinerary graph 
     
+- Weight vector 
+    - vertex weights (safest route) are updated after MDP 
+
 
 
 
