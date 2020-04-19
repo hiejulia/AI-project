@@ -15,8 +15,8 @@ Proof of concept of the state of the art AI with practical & research examples
 ## AI search algo 
 - dijkstra search 
 - heuristics 
-- A* algo 
-- 
+- A* algo
+    
 
 
 ## AI algorithm
