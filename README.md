@@ -141,6 +141,27 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 
+
+### Data Access and Distributed Processing for IoT
+- Hadoop's Distributed File System
+- HDF5 
+    -  PyArrow's filesystem interface for HDFS
+- SQL, NoSQL
+- 
+
+- Dataset 
+    - 9,568 data points collected from a combined cycle power plant (CCPP)
+        - http://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
+    - Wine quality dataset
+        - https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+    - Air quality data
+        - https://www.kaggle.com/c/predict-impact-of-air-quality-on-death-rates
+
+
+
+    
+
+
 ## ML algorithms 
 ### Image classification 
 + Build Nearest neighbour classifier for classifying different categories of images using K Means Clustering for effiency
@@ -265,10 +286,12 @@ Proof of concept of the state of the art AI with practical & research examples
     - ML : JavaML, Weka, SMILE
     - ComputerVision : JavaCV
     - Tensorflow
+    - keras 
 
 
 - Python 
 - Prolog
+- https://github.com/spotify/snakebite
 
 
 
@@ -296,3 +319,10 @@ Proof of concept of the state of the art AI with practical & research examples
 - https://github.com/mnielsen/neural-networks-and-deep-learning
 - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
 - http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+
+
+#### Applied Research paper/ Publication 
+- Microsoft research 
+    - Home Automation in the Wild: Challenges and Opportunities
+    
