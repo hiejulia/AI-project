@@ -75,6 +75,26 @@ Proof of concept of the state of the art AI with practical & research examples
     - https://www.ros.org/
 
 
+## AI in IIoT
+- optimize logistics
+- Electrical load forecasting
+- Implementing a code to perform preventive maintenance based on aircraft engine sensors data
+
+- deploy machine-to-machine (M2M) and machine-to-human (M2H) communication, along with AI-powered analytical algorithms, enabling predictive maintenance, that predict the breakdown before it occurs using past data.
+- monitoring parameters/sensor
+    - Vibration sensors mainly used to detect misalignment, imbalance, mechanical looseness, or wear on pumps and motors
+    - Current/voltage sensors to measure the current and voltage supplied to an electric motor
+    - Ultrasound analysis to detect leakage in pipe systems or tanks, or mechanical malfunctions of movable parts and faults in electrical equipment
+    - Infrared thermography to identify temperature fluctuations
+    - Sensors to detect liquid quality (for example in the case of wine sensors to detect the presence of different elements in the wine) 
+
+
+- DL model: RNN, LSTM
+- STLF using LSTM
+    - dataset : https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#
+    - 2 LSTM and 1 connected layer 
+    
+
 
 
 ## AI in IoT 
@@ -319,8 +339,10 @@ Proof of concept of the state of the art AI with practical & research examples
 - https://github.com/mnielsen/neural-networks-and-deep-learning
 - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
 - http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial
-
-
+- https://www.arundo.com/
+- https://www.canvass.io/
+- https://c3.ai/
+- https://www.uptake.com/
 
 #### Applied Research paper/ Publication 
 - Microsoft research 
