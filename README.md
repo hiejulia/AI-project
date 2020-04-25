@@ -103,6 +103,10 @@ Proof of concept of the state of the art AI with practical & research examples
 - Apply CNN to parking lot 
 - Apply SVM to safety on trip planning 
 - Teaching MDP to find the safest route 
+- Perform supervised and unsupervised machine learning for IoT data
+- Implement distributed processing of IoT data over Apache Spark using the MLLib and H2O.ai platforms
+- Forecast time-series data using deep learning methods
+
 
 
 - set up RL-DL-CRLMM model
