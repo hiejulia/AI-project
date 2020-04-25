@@ -107,6 +107,7 @@ Proof of concept of the state of the art AI with practical & research examples
 - Implement distributed processing of IoT data over Apache Spark using the MLLib and H2O.ai platforms
 - Forecast time-series data using deep learning methods
 
+- build smart systems for IoT
 
 
 - set up RL-DL-CRLMM model
@@ -310,6 +311,10 @@ Proof of concept of the state of the art AI with practical & research examples
     - ML : JavaML, Weka, SMILE
     - ComputerVision : JavaCV
     - Tensorflow
+        - on spark 
+        - SparkDL 
+        - PySpark 
+- OpenAI gym         
     - keras 
 
 
@@ -317,6 +322,7 @@ Proof of concept of the state of the art AI with practical & research examples
 - Prolog
 - https://github.com/spotify/snakebite
 
+- HDFS 
 
 
 
