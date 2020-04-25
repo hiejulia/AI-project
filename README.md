@@ -109,6 +109,12 @@ Proof of concept of the state of the art AI with practical & research examples
 
 - build smart systems for IoT
 
+- monitor heart disease using ML 
+- Smart home
+- devices used in smart home
+- AI in predicting human activity recognition
+
+
 
 - set up RL-DL-CRLMM model
     - webcam images in real time 
