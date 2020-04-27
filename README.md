@@ -170,6 +170,12 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 
+- AI in heath care 
+    - Heart_Disease_Prediction
+        - dataset : https://archive.ics.uci.edu/ml/datasets/heart+Disease
+            - 76 attributes 
+        - SVC classifier & experiment with MLP classifier 
+
 
 
 
