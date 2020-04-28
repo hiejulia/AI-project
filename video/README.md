@@ -1,0 +1,4 @@
+- handle video files 
+- handle speech data
+- cloud computing options 
+- 
