@@ -12,3 +12,8 @@
 - 44,100 hz 
 - 44,100 parts 
 - timestamp: 1/44,100s 
+
+
+## transform audio signal to freq domain 
+- Fourier Transform
+- http://www.thefouriertransform.com/
