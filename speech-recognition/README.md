@@ -50,6 +50,9 @@
 
 <a href="https://imgur.com/MtPYamP"><img src="https://i.imgur.com/MtPYamP.png" title="source: imgur.com" /></a>
 
+<a href="https://imgur.com/Ftikc1m"><img src="https://i.imgur.com/Ftikc1m.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/me5fCE9"><img src="https://i.imgur.com/me5fCE9.png" title="source: imgur.com" /></a>
 
 
 
