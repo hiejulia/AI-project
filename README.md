@@ -342,7 +342,10 @@ Proof of concept of the state of the art AI with practical & research examples
         - SparkDL 
         - PySpark 
        - keras 
-- OpenAI gym         
+- OpenAI gym   
+- Open CV 
+    <a href="https://imgur.com/RNAlNgS"><img src="https://i.imgur.com/RNAlNgS.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/u6wDCNL"><img src="https://i.imgur.com/u6wDCNL.png" title="source: imgur.com" /></a>
 
 
 
