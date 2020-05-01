@@ -248,6 +248,14 @@ Proof of concept of the state of the art AI with practical & research examples
 - Sentiment detector
     - libraries, hbc-core, JRAW, and Crux.
 
+- Speech Recognizer
+- transform audio signal 
+- generate audio signal 
+- synthesizing tones to generate music 
+- extract speech features 
+- recognize spoken words with Hidden Markov Model 
+
+
 ### CoreNLP processing pipeline 
 - tokenization
 - dependency tree
