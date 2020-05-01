@@ -3,6 +3,13 @@
 - build learning agent
 
 
+## build a learning agent 
+
+
+
+## how to run 
+- `python3 run_environment.py --input-env cartpole`
+- `python3 run_environment.py --input-env mountaincar`
 
 
 
