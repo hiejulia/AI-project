@@ -29,6 +29,18 @@
 - frequency mapping for standard tones : https://pages.mtu.edu/~suits/notefreqs.html
 
 
+## extract speech features 
+- Mel Frequency Cepstral Coefficients (MFCCs) 
+- Discrete cosine transform (DCT)
+- http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
+
+
+## recognize spoken words
+- Hidden Markov Models (HMMs)
+- package : hmmlearn 
+- `pip3 install hmmlearn`
+- dataset : Google : https://code.google.com/archive/p/hmm-speech-recognition/downloads
 
 
 
@@ -43,3 +55,4 @@
 
 ## resource 
 - https://pages.mtu.edu/~suits/notefreqs.html
+- https://hmmlearn.readthedocs.io/en/latest/
