@@ -15,6 +15,18 @@
 
 
 
+## tracking object using colorspaces 
+
+
+
+
+
+
+
+## eye detection and tracking 
+- eye cascade file
+
+
 
 
 ## stack 
