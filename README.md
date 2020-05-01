@@ -385,4 +385,8 @@ Proof of concept of the state of the art AI with practical & research examples
 #### Applied Research paper/ Publication 
 - Microsoft research 
     - Home Automation in the Wild: Challenges and Opportunities
-    
+- IBM research 
+    - https://www.ibm.com/quantum-computing/
+
+- Book 
+    - Theory: Quantum Computation and Quantum Information: 10th Anniversary Edition, Michael Nielson, Isaac L. Chuang 
