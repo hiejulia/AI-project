@@ -177,6 +177,9 @@ Proof of concept of the state of the art AI with practical & research examples
         - SVC classifier & experiment with MLP classifier 
 
 
+## AI in Robotics 
+- 
+
 
 
 ### Data Access and Distributed Processing for IoT
