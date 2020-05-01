@@ -237,6 +237,10 @@ Proof of concept of the state of the art AI with practical & research examples
 
 
 
+## Reinforcement learning 
+- Building a learning agent 
+
+
 ### NLP & sentimental analysis with RNTN 
 - Background on natural language processing (NLP) and sentiment analysis
 - Core NLP: https://stanfordnlp.github.io/CoreNLP/
@@ -337,8 +341,9 @@ Proof of concept of the state of the art AI with practical & research examples
         - on spark 
         - SparkDL 
         - PySpark 
+       - keras 
 - OpenAI gym         
-    - keras 
+
 
 
 - Python 
