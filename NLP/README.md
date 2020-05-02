@@ -6,8 +6,8 @@
     - content of phrase
     - extract entities from phrase
     - training data 
-        
 
+<a href="https://imgur.com/lt76YVJ"><img src="https://i.imgur.com/lt76YVJ.png" title="source: imgur.com" /></a>
 
 
 
