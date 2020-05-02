@@ -1,8 +1,12 @@
 # NLP 
 - Question-understanding and entity extraction component
 - response generation component
-
-
+- NLP with Rasa
+    - detect intent of phrase 
+    - content of phrase
+    - extract entities from phrase
+    - training data 
+        
 
 
 
@@ -14,6 +18,8 @@
 - NLP 
 - Rasa NLU
 - SimpleNLG
+
+
 
 
 

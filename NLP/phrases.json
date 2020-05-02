@@ -1,0 +1,30 @@
+{
+    "rasa_nlu_data": {
+     "common_examples": [
+      {
+       "text": "which pokemon breed with snorunt",
+       "intent": "can_breed_with",
+       "entities": [
+        {
+         "end": 32,
+         "entity": "pokemon",
+         "start": 25,
+         "value": "snorunt"
+        }
+       ]
+      },
+      {
+       "text": "find pokemon that can breed with skuntank",
+       "intent": "can_breed_with",
+       "entities": [
+        {
+         "end": 41,
+         "entity": "pokemon",
+         "start": 33,
+         "value": "skuntank"
+        }
+       ]
+      }
+    ]
+}
+}

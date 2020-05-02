@@ -391,5 +391,15 @@ Proof of concept of the state of the art AI with practical & research examples
 - IBM research 
     - https://www.ibm.com/quantum-computing/
 
+- Google Machine learning 
+- Google research 
+
+
+
 - Book 
     - Theory: Quantum Computation and Quantum Information: 10th Anniversary Edition, Michael Nielson, Isaac L. Chuang 
+    - AI blueprints
+    - AI by example 
+    - AI with Python 
+    - AI in finance 
+    
