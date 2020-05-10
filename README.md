@@ -95,7 +95,8 @@ Proof of concept of the state of the art AI with practical & research examples
     - 2 LSTM and 1 connected layer 
     
 
-
+## AI in Cybersecurity 
+- Spam detection with SVM
 
 ## AI in IoT 
 - Self driving solution 
