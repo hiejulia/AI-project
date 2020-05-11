@@ -97,6 +97,19 @@ Proof of concept of the state of the art AI with practical & research examples
 
 ## AI in Cybersecurity 
 - Spam detection with SVM
+- Suspect fraud 
+- Application security : 
+    - attacks : SSRF, SQL injection, XSS, DDoS 
+- Endpoint protection 
+    - ransomware 
+- Network protection 
+    - intrusion detection system 
+- Some tasks    
+    - Predict : NN, DL 
+    - Clustering 
+
+
+
 
 ## AI in IoT 
 - Self driving solution 
@@ -240,6 +253,14 @@ Proof of concept of the state of the art AI with practical & research examples
 
 ## Reinforcement learning 
 - Building a learning agent 
+- RL algorithms 
+    - Markov process Hidden Markov Models (HMM)
+    - Q Learning 
+    - Temporal difference methods 
+    - Monte Carlo methods 
+
+
+
 
 
 ### NLP & sentimental analysis with RNTN 

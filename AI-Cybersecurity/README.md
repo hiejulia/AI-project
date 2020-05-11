@@ -49,3 +49,8 @@
 - Pefile
 - malware analysts tool : volatility
 
+
+
+## Python libs for cybersecurity 
+- pip install pefile
+- malware analysts is volatility: 
