@@ -97,6 +97,7 @@ Proof of concept of the state of the art AI with practical & research examples
 
 ## AI in Cybersecurity 
 - Spam detection with SVM
+- Biometric authentication with facial recognition
 - Suspect fraud 
 - Application security : 
     - attacks : SSRF, SQL injection, XSS, DDoS 
