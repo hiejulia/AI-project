@@ -99,9 +99,9 @@ Proof of concept of the state of the art AI with practical & research examples
 - Predictive model for credit card fraud detection
     - big data analytics to integrate information from different sources
     - ensemble learning
-    - Use bagging and boosting algorithms 
+        - Use bagging and boosting algorithms 
     - sampling techniques to rebalance datasets, thereby improving prediction accuracy
-    
+
 
 - Spam detection
 - Fraud detection algorithms
