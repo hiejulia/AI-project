@@ -100,6 +100,8 @@ Proof of concept of the state of the art AI with practical & research examples
     - big data analytics to integrate information from different sources
     - ensemble learning
         - Use bagging and boosting algorithms 
+        - Adaptive Boosting (AdaBoost)
+        - gradient boosting algorithm
     - sampling techniques to rebalance datasets, thereby improving prediction accuracy
 
 
