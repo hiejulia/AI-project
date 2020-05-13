@@ -103,6 +103,9 @@ Proof of concept of the state of the art AI with practical & research examples
         - Adaptive Boosting (AdaBoost)
         - gradient boosting algorithm
     - sampling techniques to rebalance datasets, thereby improving prediction accuracy
+        - Oversampling with SMOTE
+            - Synthetic Minority Over-sampling Technique (SMOTE)
+
 
 
 - Spam detection
@@ -122,6 +125,11 @@ Proof of concept of the state of the art AI with practical & research examples
     - Clustering 
 - Multi Layer Perceptron 
 
+
+
+- Using : 
+    - https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.under_sampling.RandomUnderSampler.html 
+    
 
 
 
