@@ -96,7 +96,8 @@ Proof of concept of the state of the art AI with practical & research examples
     
 
 ## AI in Cybersecurity 
-- Spam detection with SVM
+- Spam detection
+- Fraud detection algorithms
 - Biometric authentication with facial recognition
 - Classifying suspicious user activity
 - User authentication with keystroke recognition
@@ -110,6 +111,7 @@ Proof of concept of the state of the art AI with practical & research examples
 - Some tasks    
     - Predict : NN, DL 
     - Clustering 
+- Multi Layer Perceptron 
 
 
 
@@ -418,6 +420,7 @@ Proof of concept of the state of the art AI with practical & research examples
 
 - Google Machine learning 
 - Google research 
+- Adaptive Machine Learning forCredit Card Fraud Detection(PhD thesis paper)
 
 
 
