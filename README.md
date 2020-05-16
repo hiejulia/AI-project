@@ -106,6 +106,14 @@ Proof of concept of the state of the art AI with practical & research examples
         - Oversampling with SMOTE
             - Synthetic Minority Over-sampling Technique (SMOTE)
 
+- GANs - Attacks and defense 
+    - forward propagation 
+    - backpropagation 
+- Feedforward neural networks (FFNNs)
+- Recurrent neural network (RNNs)
+    - network traffic analysis 
+- Convolutional neural networks (CNNs)
+
 
 
 - Spam detection
