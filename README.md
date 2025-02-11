@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/hientech" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
+  <br>
 # AI projects
 Proof of concept of the state of the art AI with practical & research examples 
 (with code demos)
